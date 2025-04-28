@@ -1,0 +1,62 @@
+[
+    {
+        "t\u00edtulo": "1984",
+        "autor": "George Orwell",
+        "g\u00e9nero": "Ciencia ficcion",
+        "portada": "portadas/1984.jpg"
+    },
+    {
+        "t\u00edtulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "g\u00e9nero": "Clasico",
+        "portada": "portadas/OrgulloyPrejuicio.jpg"
+    },
+    {
+        "t\u00edtulo": "El principito",
+        "autor": "Antoine de Saint-Exupery",
+        "g\u00e9nero": "Fabula",
+        "portada": "portadas/elPrincipito.jpg"
+    },
+    {
+        "t\u00edtulo": "Indigno de ser humano",
+        "autor": "Osamu Dazai",
+        "g\u00e9nero": "Ficcion psicologica",
+        "portada": "portadas/IndignoDeSerHumano.jpg"
+    },
+    {
+        "t\u00edtulo": "Rebelion en la granja",
+        "autor": "George Orwell",
+        "g\u00e9nero": "Satira politica",
+        "portada": "portadas/RebelionGranja.jpg"
+    },
+    {
+        "t\u00edtulo": "A Song of Ice and Fire",
+        "autor": "George R.R. Martin",
+        "g\u00e9nero": "Fantasia epica",
+        "portada": "portadas/ASOIAF.jpg"
+    },
+    {
+        "t\u00edtulo": "Kafka en la orilla",
+        "autor": "Haruki Murakami",
+        "g\u00e9nero": "Literatura contemporanea",
+        "portada": "portadas/KafkaontheShore.jpg"
+    },
+    {
+        "t\u00edtulo": "Hibike! Euphonium",
+        "autor": "Ayano Takeda",
+        "g\u00e9nero": "Musica",
+        "portada": "portadas/Hibike!.jpg"
+    },
+    {
+        "t\u00edtulo": "Monogatari",
+        "autor": "Nisio Isin",
+        "g\u00e9nero": "Misterio",
+        "portada": "portadas/Monogatari.jpg"
+    },
+    {
+        "t\u00edtulo": "Re: Zero",
+        "autor": "Tappei Nagatsuki",
+        "g\u00e9nero": "Isekai",
+        "portada": "portadas/ReZeroPortada.jpg"
+    }
+]

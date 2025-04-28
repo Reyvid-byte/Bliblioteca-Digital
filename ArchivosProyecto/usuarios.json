@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Rey David",
+        "id_usuario": "202456543",
+        "penalizaciones": 0,
+        "monto_penalizaciones": 0
+    },
+    {
+        "nombre": "Jose Ramirez",
+        "id_usuario": "202312131",
+        "penalizaciones": 1,
+        "monto_penalizaciones": 10
+    },
+    {
+        "nombre": "Sarahi Ramirez",
+        "id_usuario": "201589890",
+        "penalizaciones": 0,
+        "monto_penalizaciones": 0
+    },
+    {
+        "nombre": "Vladilena Alba",
+        "id_usuario": "202378543",
+        "penalizaciones": 1,
+        "monto_penalizaciones": 5
+    }
+]
